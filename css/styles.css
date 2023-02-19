@@ -439,15 +439,14 @@ section {
   }
 }
 @media (max-width: 480px){
+  .banner .content{
+    justify-content:  center;
+  }
   .banner .content h2{
     font-size: 2.2em;
-    color: #fff;
   }
   .banner .content img {
-    height: 100px;
-    max-width: 100vw;
     float: none;
-    padding-left: 75px;
   }
   header .logo {
     font-size: 1.5em;
