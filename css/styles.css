@@ -438,7 +438,7 @@ section {
     margin-bottom: 30px;
   }
 }
-@media (max-width: 480px){
+@media (max-width: 390px){
   .banner .content h2{
     font-size: 2.2em;
     color: #fff;
