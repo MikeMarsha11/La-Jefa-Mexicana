@@ -440,12 +440,12 @@ section {
 }
 @media (max-width: 480px){
   .banner .content h2{
-    font-size: 3em;
+    font-size: 2.7em;
     color: #fff;
   }
   .banner .content img {
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: 300px;
   }
   header .logo {
     font-size: 1.5em;
