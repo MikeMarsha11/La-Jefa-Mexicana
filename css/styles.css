@@ -447,7 +447,7 @@ section {
     height: 250px;
     width: 250px;
     float: none;
-    padding-left: 10px;
+    margin-left: 150px;
   }
   header .logo {
     font-size: 1.5em;
